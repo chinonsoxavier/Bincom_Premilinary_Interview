@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bincom_Premilinary_Interview")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53d196471cba5ed979a5441d86295b89c7e57736")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c02fbb6d090b2b06173727249e4e8ccff9200df")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bincom_Premilinary_Interview")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bincom_Premilinary_Interview")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
