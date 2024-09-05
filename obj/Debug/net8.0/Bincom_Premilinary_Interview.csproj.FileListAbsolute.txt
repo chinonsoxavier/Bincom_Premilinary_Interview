@@ -1,0 +1,14 @@
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/bin/Debug/net8.0/Bincom_Premilinary_Interview
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/bin/Debug/net8.0/Bincom_Premilinary_Interview.deps.json
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/bin/Debug/net8.0/Bincom_Premilinary_Interview.runtimeconfig.json
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/bin/Debug/net8.0/Bincom_Premilinary_Interview.dll
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/bin/Debug/net8.0/Bincom_Premilinary_Interview.pdb
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/obj/Debug/net8.0/Bincom_Premilinary_Interview.GeneratedMSBuildEditorConfig.editorconfig
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/obj/Debug/net8.0/Bincom_Premilinary_Interview.AssemblyInfoInputs.cache
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/obj/Debug/net8.0/Bincom_Premilinary_Interview.AssemblyInfo.cs
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/obj/Debug/net8.0/Bincom_Premilinary_Interview.csproj.CoreCompileInputs.cache
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/obj/Debug/net8.0/Bincom_Premilinary_Interview.dll
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/obj/Debug/net8.0/refint/Bincom_Premilinary_Interview.dll
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/obj/Debug/net8.0/Bincom_Premilinary_Interview.pdb
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/obj/Debug/net8.0/Bincom_Premilinary_Interview.genruntimeconfig.cache
+/home/chinonso/Documents/Xavier/dotnet/console/Bincom_Premilinary_Interview/obj/Debug/net8.0/ref/Bincom_Premilinary_Interview.dll
